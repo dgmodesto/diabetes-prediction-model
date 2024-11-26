@@ -1,4 +1,3 @@
-Claro! Vou explicar cada linha do código de forma detalhada para que você possa entender completamente o funcionamento de cada parte.
 
 ### 1. **Importação de Bibliotecas**
 ```python
